@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "想",
+  "base_artist": "GRe4N BOYZ",
+  "createdAt": "2026-03-22T06:01:19.564611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "想 -new love new world-",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/01_想_-new_love_new_world-_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "想",
+      "artist": "朱添泽",
+      "has_synced": false,
+      "path": "select/02_想_朱添泽.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "想",
+      "artist": "徐小凤",
+      "has_synced": true,
+      "path": "select/03_想_徐小凤.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "想",
+      "artist": "阿妹妹",
+      "has_synced": false,
+      "path": "select/04_想_阿妹妹.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "想",
+      "artist": "Gravitii",
+      "has_synced": true,
+      "path": "select/05_想_Gravitii.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "想...",
+      "artist": "徐小凤",
+      "has_synced": true,
+      "path": "select/06_想..._徐小凤.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "想",
+      "artist": "熊仔 & BOWZ豹子膽",
+      "has_synced": false,
+      "path": "select/07_想_熊仔_&_BOWZ豹子膽.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "想",
+      "artist": "梁铭琛",
+      "has_synced": true,
+      "path": "select/08_想_梁铭琛.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She 想",
+      "artist": "平原綾香",
+      "has_synced": false,
+      "path": "select/09_She_想_平原綾香.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "想 Say Yes",
+      "artist": "4 in Love",
+      "has_synced": false,
+      "path": "select/10_想_Say_Yes_4_in_Love.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "想",
+      "artist": "小塵埃",
+      "has_synced": true,
+      "path": "select/11_想_小塵埃.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "想...",
+      "artist": "Tsui Paula (徐小鳳)",
+      "has_synced": true,
+      "path": "select/12_想..._Tsui_Paula_(徐小鳳).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "想 (2022巡演live版伴奏)",
+      "artist": "朱添泽",
+      "has_synced": false,
+      "path": "select/13_想_(2022巡演live版伴奏)_朱添泽.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想",
+      "artist": "GRe4N BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_想_GRe4N_BOYZ.txt"
+    }
+  ]
+}
